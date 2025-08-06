@@ -44,7 +44,7 @@
 
 ---
 
-## English Version 🇬🇧
+## English Version us
 
 # The Song of Beacon
 
