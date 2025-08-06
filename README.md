@@ -1,6 +1,3 @@
-
----
-
 ## Russian Version 🇷🇺
 
 # The Song of Beacon
