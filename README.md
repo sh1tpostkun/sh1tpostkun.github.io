@@ -52,15 +52,6 @@
 
 ---
 
-## 📜 Лицензия
-
-Контент и дизайн этого проекта защищены. Пожалуйста, используйте его как вдохновение, но не копируйте вчистую для своих публичных проектов.
-
-Если вы хотите использовать код в качестве основы, пожалуйста, свяжитесь со мной или укажите явную ссылку на этот репозиторий как на первоисточник.
-
----
----
-
 ## English Version 🇬🇧
 
 # The Song of Beacon
@@ -106,9 +97,3 @@ If you'd like to create a similar page for yourself:
 4.  **Upload your images:** Place your `banner.png`, `avatar.png`, and link icons into the `img` folder.
 
 ---
-
-## 📜 License
-
-The content and design of this project are protected. Please use it as inspiration, but do not copy it directly for your own public projects.
-
-If you wish to use the code as a base, please contact me or provide a clear link back to this repository as the original source.
