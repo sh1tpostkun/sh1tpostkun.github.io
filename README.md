@@ -1,4 +1,4 @@
-## Russian Version 🇷🇺
+## Russian Version
 
 # The Song of Beacon
 
@@ -44,7 +44,7 @@
 
 ---
 
-## English Version us
+## English Version
 
 # The Song of Beacon
 
