@@ -12,7 +12,7 @@
 
 ## 🚀 О проекте
 
-Целью этого проекта было создание быстрой, красивой и полностью кастомизируемой страницы для объединения всех моих важных ссылок в одном месте. Дизайн был вдохновлен современными сервисами, такими как solo.to, и доработан для отражения моего личного стиля.
+Целью этого проекта было создание быстрой, красивой и полностью кастомизируемой страницы для объединения всех моих важных ссылок в одном месте. Дизайн был вдохновлен современными сервисами, такими как solo.to, Linktree, Taplink, и доработан для отражения моего личного стиля.
 
 ### ✨ Ключевые особенности:
 
@@ -58,7 +58,7 @@ This is the source code for my personal landing page, created as an alternative 
 
 ## 🚀 About The Project
 
-The goal of this project was to create a fast, beautiful, and fully customizable page to bring all my important links together in one place. The design was inspired by modern services like solo.to and refined to reflect my personal style.
+The goal of this project was to create a fast, beautiful, and fully customizable page to bring all my important links together in one place. The design was inspired by modern services like solo.to, Linktree, Taplink, and refined to reflect my personal style.
 
 ### ✨ Key Features:
 
