@@ -1,3 +1,9 @@
+<div align="center">
+
+**[RU](./README.md#russian-version) 🇷🇺** | **[EN](./README.md#english-version) 🇬🇧**
+
+</div>
+
 ---
 
 ## Russian Version 🇷🇺
