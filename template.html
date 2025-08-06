@@ -1,3 +1,16 @@
+
+------------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------------
+| Что            | Где искать                        | Пример                                               | | What           | Where to Edit                     | Example                                              |
+|----------------|-----------------------------------|------------------------------------------------------| |----------------|-----------------------------------|------------------------------------------------------|
+| Имя / Ник      | <h1>                              | ВАШЕ ИМЯ                                             | | Name / Nick    | <h1>                              | YOUR NAME                                            |
+| Аватар         | img/avatar.png                    | Замените на свой файл                                | | Avatar         | img/avatar.png                    | Replace with your own file                           |
+| Баннер         | img/banner.png                    | Можно просто удалить блок баннера                    | | Banner         | img/banner.png                    | You can delete the banner block                      |
+| Email          | mailto:                           | your@email.com                                       | | Email          | mailto:                           | your@email.com                                       |
+| Telegram       | https://t.me/...                  | Свой телеграм                                        | | Telegram       | https://t.me/...                  | Your Telegram                                        |
+| Соцсети        | <div class="social-links">        | Добавьте или удалите иконки                          | | Social links   | <div class="social-links">        | Add or remove icons                                  |
+| Панели-ссылки  | <section class="links-section">   | Добавьте ссылки на донаты, портфолио, соцсети и т.п. | | Link panels    | <section class="links-section">   | Add links to donations, portfolio, socials, etc.     |
+------------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------------
+
 <!DOCTYPE html>
 <html lang="ru">
 <head>
@@ -14,7 +27,6 @@
     <link rel="icon" type="image/png" href="img/favicon.png">
 
     <style>
-        /* Системные стили, лучше не редактировать, если не уверены */
         :root {
             --page-background: #F4F4F4;
             --card-background: #FFFFFF;
@@ -34,7 +46,6 @@
             color: inherit;
         }
         .banner {
-            /* ИЗМЕНИТЕ ЭТО: Путь к картинке для баннера (верхний фон) */
             background-image: url('#');
             background-size: cover;
             background-position: center;
@@ -217,8 +228,6 @@
 </head>
 <body>
     <header class="banner"></header>
-    <div class="main-container">
-        <!-- ИЗМЕНИТЕ ЭТО: Путь к картинке для аватара -->
         <section class="info-card">
             <img src="#" alt="Аватар" class="avatar"> 
             
@@ -228,7 +237,7 @@
                 
                 <div class="contact-buttons">
                     <a href="mailto:#" class="contact-button"><i class="fa-regular fa-envelope"></i> Email</a>
-                    <a href="#" class="contact-button"><i class="fa-brands fa-telegram"></i> Telegram</a>
+                    <a href="https://t.me/#" class="contact-button"><i class="fa-brands fa-telegram"></i> Telegram</a>
                 </div>
                 
                 <div class="social-links">
